@@ -5,14 +5,14 @@
 
     }
     .slider{
-        height: 80vh !important;
+        height: 90vh !important;
         border-radius: 20px;
     }
     .sld-img img {
         
         height:100vh !important;
-        object-fit: contain;
-        margin-top: -50px !important;
+        object-fit: cover;
+        
 }
 .div>button{
    
