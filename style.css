@@ -26,8 +26,8 @@ padding: 10px 10px ;
     font-family: pop-bold !important;
 }
 .navv{
-    padding: 0px !important;
-    margin: 0px !important;
+    /* padding: 0px !important;
+    margin: 0px !important; */
 }
 .nav-center{
     border-radius: 40px;
