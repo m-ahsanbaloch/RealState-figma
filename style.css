@@ -25,6 +25,10 @@ padding: 10px 10px ;
 .navbar-brand{
     font-family: pop-bold !important;
 }
+.navv{
+    padding: 0px !important;
+    margin: 0px !important;
+}
 .nav-center{
     border-radius: 40px;
 
@@ -148,5 +152,6 @@ to{
 }
 .sld-img img{
     width: 100%;
+    height: 100vh;
     object-fit: contain;
 }
