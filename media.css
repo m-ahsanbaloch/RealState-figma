@@ -12,6 +12,7 @@
         
         height:100vh !important;
         object-fit: contain;
+        margin-top: -50px !important;
 }
 .div>button{
    
