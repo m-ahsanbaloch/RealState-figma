@@ -8,4 +8,11 @@
         
         height:70vh !important;
         object-fit: contain;
-}}
+}
+.div>button{
+   
+    top: 0px;
+    right:20px !important;
+ 
+}
+}
