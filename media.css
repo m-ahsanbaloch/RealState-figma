@@ -10,7 +10,7 @@
     }
     .sld-img img {
         
-        height:10vh !important;
+        height:100vh !important;
         object-fit: contain;
 }
 .div>button{
