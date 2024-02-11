@@ -4,6 +4,10 @@
         margin: 70px 0px 0px 0px !important;
 
     }
+    .slider{
+        height: 100vh;
+        border-radius: 20px;
+    }
     .sld-img img {
         
         height:70vh !important;

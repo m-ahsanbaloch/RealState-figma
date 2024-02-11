@@ -74,10 +74,13 @@ cursor: pointer;
 .contact-us:hover{
     background-color: #f2be8e;
 color: #fff !important;}
+.content{
+    margin-top: 30px;
+}
 .slider{
     background: rgb(193,222,232);
 background: linear-gradient(90deg, rgba(193,222,232,1) 0%, rgba(225,219,206,1) 50%, rgba(251,217,185,1) 100%);
-height: 100vh;
+height: 70vh;
 border-radius: 20px;
 }
 .welcome{
@@ -152,7 +155,7 @@ to{
 }
 .sld-img img{
     width: 100%;
-    height: 100%;
+    height: 80vh;
     object-fit: contain;
     filter: drop-shadow( rgba(0, 0, 0, 0.1) 0px 4px 12px);
 }
