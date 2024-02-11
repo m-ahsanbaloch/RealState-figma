@@ -6,6 +6,6 @@
     }
     .sld-img img {
         
-        height:80vh;
+        height:70vh !important;
         object-fit: contain;
 }}
