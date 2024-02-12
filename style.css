@@ -170,6 +170,7 @@ to{
 .queries i{
     font-size: 24px;
     color: #58BF52;
+    cursor: pointer;
 }
 .qa p{
     font-weight: bold;
@@ -177,3 +178,11 @@ to{
 .qa-des p{
     font-size: 12px;
 }
+.project-det{
+    margin-top: 60px;
+}
+.b-project2 p{
+    font-size: 30px;
+    font-weight: bold;
+   
+   }
