@@ -3,186 +3,197 @@
   padding: 0px !important;
 }
 .navi-main {
-  background-color: #FAFAFA !important;
- border-radius: 40px;
- box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-display: flex !important;
-justify-content:  space-between;
-padding: 10px 10px ;
+  background-color: #fafafa !important;
+  border-radius: 40px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  display: flex !important;
+  justify-content: space-between;
+  padding: 10px 10px;
 }
 @font-face {
-    font-family: 'pop-reg';
-    src: url(fonts/Poppins-Regular.ttf);
-
+  font-family: "pop-reg";
+  src: url(fonts/Poppins-Regular.ttf);
 }
 @font-face {
-    font-family: 'pop-bold';
-    src: url(fonts/Poppins-Bold.ttf);
+  font-family: "pop-bold";
+  src: url(fonts/Poppins-Bold.ttf);
 }
-*{
-    font-family: pop-reg ;
+* {
+  font-family: pop-reg;
 }
-.navbar-brand{
-    font-family: pop-bold !important;
+.navbar-brand {
+  font-family: pop-bold !important;
 }
-.navv{
-    padding: 0px !important;
-    margin: 0px !important;
+.navv {
+  padding: 0px !important;
+  margin: 0px !important;
 }
-.nav-center{
-    border-radius: 40px;
+.nav-center {
+  border-radius: 40px;
 
-    background-color: #fff !important;
+  background-color: #fff !important;
 }
-.nav-center li{
-    margin-left: 10px;
+.nav-center li {
+  margin-left: 10px;
 }
-.nav-item{
-    color:  #1F1F1F !important;
-    font-size: 14px;
-    
+.nav-item {
+  color: #1f1f1f !important;
+  font-size: 14px;
 }
-.nav-item a{
-    text-align: center;
+.nav-item a {
+  text-align: center;
 }
-.nav-item a:hover{
-    color: #f2be8e !important;
-    
+.nav-item a:hover {
+  color: #f2be8e !important;
 }
-.otherservices p{
-    color:  #1F1F1F !important;
-    font-size: 12px;
-margin: 0px 20px 0px 0px;
-/* text-align:end; */
-cursor: pointer;
+.otherservices p {
+  color: #1f1f1f !important;
+  font-size: 12px;
+  margin: 0px 20px 0px 0px;
+  /* text-align:end; */
+  cursor: pointer;
 }
-.otherservices p:hover{
-    color: #f2be8e !important;
-    transition: 0.4s ease;
+.otherservices p:hover {
+  color: #f2be8e !important;
+  transition: 0.4s ease;
 }
 .contact-us {
-    /* margin-bottom: 10px; */
-    color:  #1F1F1F !important;
-    font-size: 12px;
-    background-color: #fff;
-    border: 1px solid #bebebe;
-    outline: 0px;
-    padding: 10px 20px;
-    border-radius: 40px;
-    transition: 0.4s ease;
+  /* margin-bottom: 10px; */
+  color: #1f1f1f !important;
+  font-size: 12px;
+  background-color: #fff;
+  border: 1px solid #bebebe;
+  outline: 0px;
+  padding: 10px 20px;
+  border-radius: 40px;
+  transition: 0.4s ease;
 }
-.contact-us:hover{
-    background-color: #f2be8e;
-color: #fff !important;}
-.content{
-    margin-top: 30px;
+.contact-us:hover {
+  background-color: #f2be8e;
+  color: #fff !important;
 }
-.slider{
-    background: rgb(193,222,232);
-background: linear-gradient(90deg, rgba(193,222,232,1) 0%, rgba(225,219,206,1) 50%, rgba(251,217,185,1) 100%);
-height: 70vh;
-border-radius: 20px;
+.content {
+  margin-top: 30px;
 }
-.welcome{
-    margin: 70px 0px 0px 40px;
+.slider {
+  background: rgb(193, 222, 232);
+  background: linear-gradient(
+    90deg,
+    rgba(193, 222, 232, 1) 0%,
+    rgba(225, 219, 206, 1) 50%,
+    rgba(251, 217, 185, 1) 100%
+  );
+  height: 70vh;
+  border-radius: 20px;
 }
-.welcome h1{
-    font-family:pop-reg;
-    font-size: 40px;
-    font-weight: bold;
-    letter-spacing: 2px;
+.welcome {
+  margin: 70px 0px 0px 40px;
 }
-.welcome p{
-    font-size: 12px !important;
-color: #000;
+.welcome h1 {
+  font-family: pop-reg;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.welcome p {
+  font-size: 12px !important;
+  color: #000;
 }
 .s-txt-dwn {
-    margin-top: 30px;
+  margin-top: 30px;
 }
-.info{
-    position: relative;
+.info {
+  position: relative;
 }
-.information{
-    
-    width: 80%;
-    margin: 00px 0px 0px 40px;
-    border-radius: 40px;
-    border: none;
-    padding: 10px 0px;
+.information {
+  width: 80%;
+  margin: 00px 0px 0px 40px;
+  border-radius: 40px;
+  border: none;
+  padding: 10px 0px;
 }
-.information::placeholder{
-padding: 0px 20px;
-font-size: 12px !important;
+.information::placeholder {
+  padding: 0px 20px;
+  font-size: 12px !important;
 }
-.information:focus{
-    border: none !important;
-    outline: none;
+.information:focus {
+  border: none !important;
+  outline: none;
 }
-.div>button{
-    position: absolute;
-    top: 0px;
-    right:30px;
-    color:  #fff !important;
-    font-size: 12px;
-    background-color: #000;
-    border: 1px solid #bebebe;
-    outline: 0px;
-    padding: 13px 20px;
-    border-radius: 40px;
-    transition: 0.4s ease;
-    animation-name: btn222;
+.div > button {
+  position: absolute;
+  top: 0px;
+  right: 30px;
+  color: #fff !important;
+  font-size: 12px;
+  background-color: #000;
+  border: 1px solid #bebebe;
+  outline: 0px;
+  padding: 13px 20px;
+  border-radius: 40px;
+  transition: 0.4s ease;
+  animation-name: btn222;
 }
-.div>button:hover{
-    animation-name: anmove;
-    animation-timing-function: 15ms;
-    transition: 0.4s ease all;
-    animation-iteration-count: 1;
-    animation-duration: 1.2s;}
-@keyframes anmove{
-from{
-    right:50px;
+.div > button:hover {
+  animation-name: anmove;
+  animation-timing-function: 15ms;
+  transition: 0.4s ease all;
+  animation-iteration-count: 1;
+  animation-duration: 1.2s;
+}
+@keyframes anmove {
+  from {
+    right: 50px;
+  }
+  to {
+    right: 30px;
+  }
+}
 
+.sld-img {
+  width: 100%;
+  /* height: 70vh; */
 }
-to{
-    right:30px;
-
-}}
-
-.sld-img{
-    width: 100%;
-    /* height: 70vh; */
-
+.sld-img img {
+  width: 100%;
+  height: 80vh;
+  object-fit: contain;
+  filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 4px 12px);
 }
-.sld-img img{
-    width: 100%;
-    height: 80vh;
-    object-fit: contain;
-    filter: drop-shadow( rgba(0, 0, 0, 0.1) 0px 4px 12px);
+.content1 {
+  margin-top: 60px;
 }
-.content1{
-    margin-top: 60px;
+.every-thing p {
+  font-size: 30px;
+  font-weight: bold;
 }
-.every-thing p{
- font-size: 30px;
- font-weight: bold;
-
+.queries i {
+  font-size: 24px;
+  color: #58bf52;
+  cursor: pointer;
 }
-.queries i{
-    font-size: 24px;
-    color: #58BF52;
-    cursor: pointer;
+.qa p {
+  font-weight: bold;
 }
-.qa p{
-    font-weight: bold;
+.qa-des p {
+  font-size: 12px;
 }
-.qa-des p{
-    font-size: 12px;
+.project-det {
+  margin-top: 60px;
 }
-.project-det{
-    margin-top: 60px;
+.b-project2 p {
+  font-size: 30px;
+  font-weight: bold;
 }
-.b-project2 p{
-    font-size: 30px;
-    font-weight: bold;
-   
-   }
+.cone {
+  width: 100% !important;
+  height: 200px;
+  object-fit: cover !important;
+}
+.estate-brokerage p {
+  font-size: 30px;
+  font-weight: bold;
+}
+.estate-brokerage{
+    margin-top: 50px;
+}
