@@ -159,11 +159,21 @@ to{
     object-fit: contain;
     filter: drop-shadow( rgba(0, 0, 0, 0.1) 0px 4px 12px);
 }
-.content{
+.content1{
     margin-top: 60px;
 }
 .every-thing p{
  font-size: 30px;
  font-weight: bold;
 
+}
+.queries i{
+    font-size: 24px;
+    color: #58BF52;
+}
+.qa p{
+    font-weight: bold;
+}
+.qa-des p{
+    font-size: 12px;
 }
